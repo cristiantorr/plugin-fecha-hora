@@ -1,5 +1,5 @@
 === Fecha Actual Mejorada ===
-Contributors: TuNombre
+Contributors: Cristian Torres
 Tags: fecha, año, shortcode, fecha actual
 Requires at least: 5.0
 Tested up to: 6.5
